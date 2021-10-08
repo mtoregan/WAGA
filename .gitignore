@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# custom 
+.idea
+.idea/WAGA.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+*.pyc
+*pyo
+
 # C extensions
 *.so
 
